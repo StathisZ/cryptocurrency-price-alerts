@@ -4,7 +4,7 @@ from datetime import datetime
 
 # Replace the {my-IFTTT-key} with the key found in your IFTTT account.
 
-IFTTT_WEBHOOKS_URL = 'https://maker.ifttt.com/trigger/{}/with/key/bZ6ju4k6baW8L-Kmx1LpIEHqN-ysrTrko15jPow6dfM'
+IFTTT_WEBHOOKS_URL = 'https://maker.ifttt.com/trigger/{}/with/key/{my-IFTTT-key}'
 
 # input sequence
 
